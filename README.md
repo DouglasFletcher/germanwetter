@@ -1,0 +1,2 @@
+# germanwetter
+collect dwd weather
