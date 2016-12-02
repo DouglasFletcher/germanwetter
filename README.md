@@ -5,8 +5,8 @@ collect dwd weather
 2. download both weather and station metadata
 3. extract to flatfile for import into staging process
       
-Dependencies: \n
-python 2.7 \n
-pip install Enum34 \n
-pip install sqlalchemy \n
+Dependencies: /n
+python 2.7 /n
+pip install Enum34 /n
+pip install sqlalchemy /n
 
