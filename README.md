@@ -8,3 +8,9 @@ collect dwd weather
       i. merging weather data daily or weekly
       ii. adding metadata via SCD (slowly changing dimensions) star schema
       iii. dimensions: period, variable name, stationmeta
+      
+Dependencies:
+python 2.7
+pip install Enum34
+pip install sqlalchemy
+
